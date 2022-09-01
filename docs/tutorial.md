@@ -47,7 +47,10 @@ This is a tutorial that uses the `"How-to article"` template as an example.
 > 
 > ![](../images/copy-description.png)
 
-4. Click use template.
+
+## Step 3: Convert template to Markdown
+
+4. Click `Use template` to open the template.
 
 > **Example:**
 > 
