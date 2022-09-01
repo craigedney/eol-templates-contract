@@ -5,11 +5,11 @@ This is a tutorial that uses the `"How-to article"` template as an example.
 
 1. Open your markdown editor and create a new `'.md'` file.
 
-2. Name the markdown file after the template with the following structure: `"template_{TEMPLATE_NAME}.md"`.
+2. Name the markdown file after the template with the following structure: `"template_{TEMPLATE-NAME}.md"`.
 
-> **Screenshot:**
+> **Example:**
 > 
-> ![](../images/save-as.png)
+> "template_how-to-article.md"
 
 3. Copy the following structure inside the newly created markdown document.
 
@@ -64,7 +64,7 @@ This is a tutorial that uses the `"How-to article"` template as an example.
 ## The result
 Below is the markdown document's final source code and a link to how it looks when it is rendered.
 
-`template_how-to article.md`
+`template_how-to-article.md`
 
 ```md title="template_how-to article"
 # How-to article
@@ -94,4 +94,4 @@ The content by label feature automatically displays related articles based on la
 [Content by label]
 ```
 
-- [Click here to go to the How-to article ->](./template_how-to article.md)
+- [Click here to go to the How-to article ->](./template_how-to-article.md)

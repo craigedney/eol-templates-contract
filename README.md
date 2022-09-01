@@ -5,7 +5,7 @@
 
 - [Built With](#built-with)
 - [Tutorial / Walkthrough](./docs/tutorial.md)
-- [Example document](./docs/template_how-to article.md)
+- [Example document](./docs/template_how-to-article.md)
 
 </details>
 
