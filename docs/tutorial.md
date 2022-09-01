@@ -35,13 +35,13 @@ This is a tutorial that uses the `"How-to article"` template as an example.
 > 
 > ![](../images/how-to-selection.png)
 
-2. Copy the title of the template and paste it over the `"{title}"` tag inside your markdown document.
+2. Copy the title of the template and paste it over the `"{title}"` placeholder inside your markdown document.
 
 > **Screenshot:**
 > 
 > ![](../images/copy-title.png)
 
-3. Copy the description of the template and paste it over the `"{description}"` tag inside your markdown document.
+3. Copy the description of the template and paste it over the `"{description}"` placeholder inside your markdown document.
 
 > **Screenshot:**
 > 
