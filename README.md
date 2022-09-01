@@ -23,3 +23,5 @@ Convert all [Confluence](https://www.atlassian.com/software/confluence) template
 - [Template Checklist](./docs/template-checklist.md)
 
 </details>
+
+** This is a personal project for myself.
