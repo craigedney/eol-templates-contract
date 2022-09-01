@@ -16,11 +16,11 @@ Convert all [Confluence](https://www.atlassian.com/software/confluence) template
 <summary>Table of Contents</summary>
 
 - [Tutorial / Walkthrough](./docs/tutorial.md)
+- [Template Checklist](./docs/template-checklist.md)
 - [Examples](./examples)
   - [Template: How to article](./examples/template_how-to-article.md)
   - [Template: Project Poster](./examples/template_project-poster.md)
   - [Template: DACI: Decision Documentation](./examples/template_daci-decision-documentation.md)
-- [Template Checklist](./docs/template-checklist.md)
 
 </details>
 
