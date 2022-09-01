@@ -52,18 +52,23 @@ This is a tutorial that uses the `"How-to article"` template as an example.
 
 1. Click `Use template` button to open the template.
 
-> **Example:**
+> **Screenshot:**
 > ![](../images/click-use-template.png)
->
+
+The template will look like this:
+
 > ![](../images/how-to-template.png)
 
-5. Copy the template using `markdown` syntax in the `.md` file. Try to get the structure as similar as possible.
+2. Copy the template using `markdown` syntax in the `.md` file. Try to get the structure as similar as possible.
 
-> **Example:**
+> **Screenshot:**
 > 
 >![](../images/adding-the-template.png)
 
-6. Check over the document and make styling similar. (E.g. use of emojis).
+3. Review the document and make styling similar. 
+
+> **Example - Emojis:**
+> 📘 ℹ️ 📋 ✅ ❓ 👍🏼 ➕ ➖
 
 ---
 
