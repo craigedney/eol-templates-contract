@@ -50,10 +50,11 @@ This is a tutorial that uses the `"How-to article"` template as an example.
 
 ## Step 3: Convert template to Markdown
 
-4. Click `Use template` button to open the template.
+1. Click `Use template` button to open the template.
 
 > **Example:**
-> 
+> ![](../images/click-use-template.png)
+>
 > ![](../images/how-to-template.png)
 
 5. Copy the template using `markdown` syntax in the `.md` file. Try to get the structure as similar as possible.
