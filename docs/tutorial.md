@@ -53,10 +53,13 @@ This is a tutorial that uses the `"How-to article"` template as an example.
 1. Click `Use template` button to open the template.
 
 > **Screenshot:**
+> 
 > ![](../images/click-use-template.png)
 
 The template will look like this:
 
+> **Screenshot:**
+> 
 > ![](../images/how-to-template.png)
 
 2. Copy the template using `markdown` syntax in the `.md` file. Try to get the structure as similar as possible.
