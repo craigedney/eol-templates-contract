@@ -94,4 +94,4 @@ The content by label feature automatically displays related articles based on la
 [Content by label]
 ```
 
-- [Click here to go to the How-to article ->](./docs/template_how-to article.md)
+- [Click here to go to the How-to article ->](./template_how-to article.md)
