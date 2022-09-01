@@ -96,8 +96,8 @@ The content by label feature automatically displays related articles based on la
 [Content by label]
 ```
 
-- [Click here to go to the How-to article ->](./template_how-to-article.md)
+- [Click here to go to the How-to article ->](../examples/template_how-to-article.md)
 
 ---
 
-**Finish! Now on to the next one in the list..!**
+**Finish! Now on to the next one in the list...**
