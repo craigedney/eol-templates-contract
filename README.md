@@ -24,4 +24,7 @@ Convert all [Confluence](https://www.atlassian.com/software/confluence) template
 
 </details>
 
-** This is a personal project for myself.
+---
+
+* This is a personal project...
+  * I've paid for myself... because I lack the time to complete it outside of work!
