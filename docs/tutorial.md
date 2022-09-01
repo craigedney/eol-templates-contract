@@ -50,7 +50,7 @@ This is a tutorial that uses the `"How-to article"` template as an example.
 
 ## Step 3: Convert template to Markdown
 
-4. Click `Use template` to open the template.
+4. Click `Use template` button to open the template.
 
 > **Example:**
 > 
