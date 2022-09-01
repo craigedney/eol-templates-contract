@@ -27,7 +27,7 @@ This is a tutorial that uses the `"How-to article"` template as an example.
 >
 > ![](../images/structure.png)
 
-## Step 2: Selecting and preparing the template
+## Step 2: Select and prepare the template
 
 1. Scroll down and select your template from the list.
 
@@ -53,11 +53,13 @@ This is a tutorial that uses the `"How-to article"` template as an example.
 > 
 > ![](../images/how-to-template.png)
 
-5. Copy the template using `markdown` syntax in the `.md` file. Try to get the structure the same.
+5. Copy the template using `markdown` syntax in the `.md` file. Try to get the structure as similar as possible.
 
 > **Example:**
 > 
 >![](../images/adding-the-template.png)
+
+6. Check over the document and make styling similar. (E.g. use of emojis).
 
 ---
 
@@ -95,3 +97,7 @@ The content by label feature automatically displays related articles based on la
 ```
 
 - [Click here to go to the How-to article ->](./template_how-to-article.md)
+
+---
+
+**Finish! Now on to the next one in the list..!**
