@@ -8,9 +8,9 @@ Convert all [Confluence](https://www.atlassian.com/software/confluence) template
 
 - Must have `.md` extension in the format `template_{TEMPLATE-NAME}.md`.
 
-- Tutorial / Walkthrough can be found in `/docs` folder.
+- [Tutorial / Walkthrough](./docs/tutorial.md) can be found in `/docs` folder.
 
-- Examples can be found in the `/examples` folder.
+- [Examples](./examples) can be found in the `/examples` folder.
 
 <details open="open">
 <summary>Table of Contents</summary>
